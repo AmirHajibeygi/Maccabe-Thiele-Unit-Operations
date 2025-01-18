@@ -12,4 +12,4 @@ In this project I have coded three systems but also I uploaded a generic code th
    - R= It is reflux ratio(amount of vapour in which returns to column)
    - Rmin=It is minimum number of reflux that can occure in each system
    - For calculating minimum reflux ratio at first you shoud find tie_line in which crosses F on diagram.Then connect it to vertical line crossing XD.Now you can get this number.This is important in such sysems because this is the base number of reflux ratio for each system.
-As an example I did a sample of Mccabe and you can see following:
+**As an example I did a sample of Mccabe and you can see following:**
