@@ -16,4 +16,4 @@ In this project I have coded three systems but also I uploaded a generic code th
 
 **As an example I did a sample of Mccabe and you can see following:**
 
-![Debotanizer Tower Flowsheet](images1/Res3.png)
+   ![Results](images1/Res3.PNG)
