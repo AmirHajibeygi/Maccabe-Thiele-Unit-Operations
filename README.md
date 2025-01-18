@@ -22,3 +22,7 @@ In this project I have coded three systems but also I uploaded a generic code th
    ![Results](images1/Res6.PNG)
 
    ![Results](images1/Res5.PNG)
+
+Feed stage is stage that our operating line shifts from rectifying section to stripping section.
+
+As I did you can solve your own problem and reach to your own system by Mccabe method.
